@@ -1,0 +1,1 @@
+Aqui tengo que leer un archivo de texto y contar las lineas que contengan una palabra especifica para ello utilizo un contador inicializado a 0 y eligo una palabra que cada vez que aparezca dicha palabra en una de las frases del fichero, el contador se va a ir sumando 1 asi contando todas las veces que aparece la palabra en las frases
